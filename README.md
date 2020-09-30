@@ -2,7 +2,7 @@
 
 
 ```cmd
-cd modellazione-saggi-immunometrici
+cd modellazione-saggi-immunometrici-master
 virtualenv env
 env\Scripts\activate
 pip install PYGLET
