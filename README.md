@@ -12,8 +12,7 @@ pip install PYGLET
 ```cmd
 python Main.py
 ```
-enter the parameters
-start the simulation
+Enter the parameters, run the simulation.
 Once the second window appears, place the curson on it and press 'ESC' to hide the cursor.
 Use the arrows to move aroud, left-shift to go down and spacebar to go up.
 Move the mouse to rotate the camera.
